@@ -81,6 +81,6 @@ body{
 	text-align: justify;
 }
 
-.equis.no{
+.cont-cuadros.delete-img, .col-uno.delete-txt, .col-dos.delete-txt{
 	display: none;
 }
