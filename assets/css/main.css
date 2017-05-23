@@ -1,0 +1,86 @@
+body{
+	background-color: #381500;
+	font-family: 'Raleway', sans-serif;
+	color: #DBA372;
+	font-size: 16px;
+	margin: 0;
+}
+
+.header{
+	background-color: #781000;
+	height: 50px;
+}
+
+.header-list{
+	text-align: left;
+	margin: 0;
+	padding-top: 15px;
+}
+
+.header-list li{
+	display: inline;
+	list-style-type: none;
+}
+
+.header-list li a{
+	color: #DBA372;
+	text-decoration: none;
+	padding-right: 20px;
+}
+
+.cont-img{
+	text-align: center;
+}
+
+.cont-img .cont-cuadros{
+	display: inline-block;
+	margin: 20px;
+	width: 150px;
+}
+.panda-cuadros{
+	filter: grayscale(100%);
+	border: 5px solid #868484;
+    margin: 30px 10px 10px 0;
+}
+
+.cont-cuadros span{
+	font-weight: bold;
+	font-size: 20px;
+	position: relative;
+	bottom: 165px;
+	right: 55px;
+}
+
+.cont-btn{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.cont-btn .btn{
+	background-color: #781000;
+	color: #DBA372;
+	width: 300px;
+	border: 1px solid #781000;
+	border-radius: 3px;
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cont-lorem{
+	margin-left: 230px;
+}
+
+.col-uno, .col-dos{
+	float: left;
+	width: 400px;
+	height: 200px;
+	margin-left: 25px;
+	margin-right: 25px;
+	text-align: justify;
+}
+
+.equis.no{
+	display: none;
+}
